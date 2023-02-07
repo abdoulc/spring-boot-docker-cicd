@@ -18,5 +18,4 @@ public class User {
     private Date registredAt;
     private Date lastLogin;
     private String Intro;
-
 }
